@@ -18,3 +18,13 @@ header {
     color: black;
 
 }
+
+section {
+    padding: 2rem 1rem;
+    margin: 50px;
+    text-align:center;
+    background: #dfdddd;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px grey;
+    
+}
