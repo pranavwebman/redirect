@@ -26,5 +26,12 @@ section {
     background: #dfdddd;
     border-radius: 12px;
     box-shadow: 0 4px 8px grey;
-    
+
+}
+
+footer {
+    background: linear-gradient(to right, #1c1c8d, #23a8e6);
+    padding: 1rem;
+    text-align: center;
+    color: black;
 }
